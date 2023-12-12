@@ -9420,5 +9420,12 @@
     "author": "ssjy1919",
     "description": "Customize a set of nested tabs through code blocks.",
     "repo": "ssjy1919/Obsidian-minitabs"
-  }
+    },
+    {
+        "id": "obsidian-task-status-quick-menu",
+        "name": "Task Status Quick Menu",
+        "author": "Valerie Burzynski",
+        "description": "A Quick Menu to select and apply a custom task status marker",
+        "repo": "vburzynski/obsidian-task-status-quick-menu"
+    }
 ]
